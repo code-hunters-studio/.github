@@ -22,8 +22,10 @@ If you don’t see many public repos here, that’s intentional — not a mistak
 
 For collaboration or business inquiries:
 
-- 📧 **abdulrahmangalhoom@gmail.com**
-- 📧 **redasalem287@gmail.com**
+| Person | GitHub | Email |
+|--------|--------|-------|
+| Abdulrahman Galhoom | [`Galhoom22`](https://github.com/Galhoom22) | 📧 **abdulrahmangalhoom@gmail.com** |
+| Reda Salem | [`redasalem`](https://github.com/redasalem) | 📧 **redasalem287@gmail.com** |
 
 ---
 
