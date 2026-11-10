@@ -1,19 +1,56 @@
-# Code Hunters Studio
+# 🏹 Code Hunters Studio
 
-**Private software studio.** We design and build commercial products for real businesses.
+**A private software studio.** We plan, design, and ship commercial products — not open-source experiments.
 
-## What you will see here
+---
 
-Almost everything we ship lives in **private repositories**. That is intentional.
+## 🎯 What this org is
 
-- This organization is **not** an open-source community hub.
-- We do **not** accept public contributions, issues, or pull requests on product work.
-- If a repository is not listed publicly, it is private client / product work — not missing by mistake.
+| | |
+|---|---|
+| 🏗️ | **Product studio** — real products for real businesses |
+| 🔒 | **Private by default** — almost every repo stays closed |
+| 🧭 | **Planning → build** — specs and prototypes first, then implementation |
+| 👥 | **Small team** — owners ship Backend + Frontend together |
 
-## Contact
+We are **not** a public contribution hub. If a repo isn’t listed here, it’s private product work — not missing by accident.
 
-For collaboration or business inquiries: **abdulrahmangalhoom@gmail.com**
+---
 
-—
+## 🧩 How we work
 
-Code Hunters Studio · private by design
+1. **📋 Plan** — requirements, decisions, and board-ready Stories  
+2. **🎨 Prototype** — production-quality UI for the actor in focus  
+3. **⚙️ Implement** — Frontend + Backend in dedicated private repos  
+4. **🔁 Repeat** — next actor, same bar (no “MVP stub” delivery)
+
+---
+
+## 🗂️ What’s inside (private)
+
+| Area | Purpose |
+|------|---------|
+| 📘 Planning repos | Product rules, Jira mirror, delivery method |
+| 🖥️ Frontend repos | Customer-facing apps |
+| 🧱 Backend repos | APIs, data, jobs, security |
+| 📚 Shared playbook | Reusable studio method for the next product |
+| 🗺️ Repo map | Diagrams of which repos belong to which product |
+
+Public viewers only see this profile. The work lives behind private repos.
+
+---
+
+## 🤝 Contact
+
+| Role | Email |
+|------|-------|
+| 🧑‍💻 Studio | **abdulrahmangalhoom@gmail.com** |
+| 🧑‍💻 Studio | **redasalem287@gmail.com** |
+
+For collaboration or business inquiries, write either address.
+
+---
+
+<p align="center">
+  <sub>🏹 Code Hunters Studio · private by design · we build products that ship</sub>
+</p>
